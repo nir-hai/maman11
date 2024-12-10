@@ -1,0 +1,4 @@
+Please enter a text. Note that sentence ends in '.' character
+ Abc "HELLO  WORLD" xyz. "LOWERCASE TEST." This is the start  of a test.
+ "SMALL WORDS HERE" Capital letters everywhere. "ANOTHER TEST INSIDE QUOTES." Now this is another line.
+"HELLO  WORLD!" This is a mixed example. "MORE  TESTS!" Does this work right?
